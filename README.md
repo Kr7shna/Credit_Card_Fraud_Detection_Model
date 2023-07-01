@@ -1,2 +1,2 @@
-# Credit_Card_Fraud_Detection_Model
-The project is to recognize fraudulent credit transactions. You only need to put the dataset and model will detect the fraudulent credit transactions.
+# Problem Staement
+In this capstone project, you need to build a fraud detection model to help banks identify credit card frauds and be vigilant enough to reduce losses incurred due to such unauthorised transactions by the fraudsters.
